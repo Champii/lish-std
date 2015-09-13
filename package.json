@@ -2,7 +2,7 @@
   "name": "lish-std",
   "version": "0.0.1",
   "description": "Standard library and wrappers for LiveShell",
-  "main": "index.ls",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "livescript": "^1.4.0",
-    "prelude-ls": "^1.1.2",
+    "prelude-ls": "^1.1.2"
   }
 }
