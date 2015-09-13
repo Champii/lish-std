@@ -1,0 +1,22 @@
+{
+  "name": "lish-std",
+  "version": "0.0.1",
+  "description": "Standard library and wrappers for LiveShell",
+  "main": "index.ls",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Champii/lish-std.git"
+  },
+  "author": "",
+  "license": "GNUv2",
+  "bugs": {
+    "url": "https://github.com/Champii/lish-std/issues"
+  },
+  "dependencies": {
+    "livescript": "^1.4.0",
+    "prelude-ls": "^1.1.2",
+  }
+}
